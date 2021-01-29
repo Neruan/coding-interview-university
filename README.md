@@ -132,6 +132,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
 - [Have questions for the interviewer](#have-questions-for-the-interviewer)
 - [Once You've Got The Job](#once-youve-got-the-job)
+- [Progress](#here)
 
 ---------------- Everything below this point is optional ----------------
 
@@ -482,7 +483,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
-
+## Here
 - Nothing to implement
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review
 - If some lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge
